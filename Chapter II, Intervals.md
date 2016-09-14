@@ -24,6 +24,7 @@ Any interval is identified by the number of steps between the lower note and the
 
 - **Inverted Interval:** the lower note has been raised an octave, or the upper note has been lowered an octave; the interval has been turned upside down  
 #### Inversion Rules
+
 | Intervals | Degrees |
 |-----|-----|
 | per. < > per. | 1 < > 8 |
