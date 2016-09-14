@@ -23,6 +23,7 @@ Any interval is identified by the number of steps between the lower note and the
 *While the perfect fourth is not unpleasant to the ear, it is considered dissonant because it usually requires resolution to a M3
 
 - **Inverted Interval:** the lower note has been raised an octave, or the upper note has been lowered an octave; the interval has been turned upside down  
+
 #### Inversion Rules
 
 | Intervals | Degrees |
