@@ -22,6 +22,8 @@
 - The inversion in which the bottom note is the root of the chord is saud to be in **root position.** If the root is moved up an octave so that the bottom note is the second in the chord, it is in **first inversion.** If the third is on the bottom, it is in **second inversion.** The pattern continues.  
 - A chord in root position is simply written without a symbol. So C in root position is simply written as C. If it is moved to first inversion, it is written differently. From the E at the bottom to the top note, a C, there is a sixth, thus a 6 is written in subscript. In second inversion, there is a sixth from the G on the bottom to the E on top, and a fourth from the G on the bottom to the C in the middle, so in subscript you write a 6 above a 4. Adjust this rule according to the chord.  
 
+
+
 |  | Root Position | 1st Inversion | 2nd Inversion | 3rd Inversion |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 | C | C | C(6) | C(6/4) |  |
