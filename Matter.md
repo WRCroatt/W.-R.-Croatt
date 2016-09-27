@@ -1,0 +1,42 @@
+- Matter
+  - **Matter:** anything that occupies space and has mass
+  - **Force:** an act of matter to change position or motion
+  - **Inertia:** a property causing matter to resist a change in motion or position 
+  - Mass vs Weight
+    - **Mass:** the amount of matter that an object contains—mass responsible for weight
+    - **Weight:** the measure of the earth's attraction for matter
+- The States of Matter
+  - **Solid:** form of matter that has defined shape and volume
+  - **Liquid:** form of matter that flows, has defined volume, and takes the shape of what contains it
+  - **Gas:** form of matter that takes the shape and volume of what contains it
+  - Other Terms
+    - **Vapor:** describes a substance that, although in a gaseous state, is generally a solid or liquid at room temperature
+    - **Fluid:** anything that flows, either liquid or gaseous, and require vessels to contain them
+  - **Plasma:** the fourth state of matter
+    - Gasses heated to high enough temperatures to separate atoms and strip off electrons (ionized gasses) 
+    - Low temperature/partial (cold) plasmas can be created in fluorescent lights, neon signs
+        50,000°K - 100,000°K
+    - Highly ionized/hot plasmas can be created in stars, lightning bolts, and welding torches 
+        10,000,000°K - 100,000,000°K
+- Properties of Matter
+  - **Physical Properties:** those that can be determined without changing the substance's composition
+    - Color, solubility, mass, odor, hardness, density, electrical charge, magnetism, melting point, boiling point, etc. 
+  - **Physical Changes**
+    - Cutting, grinding, bending
+    - Phase changes
+    - **Sublimation:** a phase change that bypasses the liquid phase 
+      - Iodine: solid to gas
+      - Frost: gas to solid (deposition) 
+  - **Chemical Properties:** those that describe the behavior of a substance in processes that alter its composition
+    - Rusting, decomposition, fermentation, burning, etc. 
+    - **Chemical Change:** when a substance undergoes a change in its chemical properties
+  - Every substance has a unique set of physical and chemical properties 
+- Mixtures
+  - **Mixture:** consist of a physical blend of two or more substances
+    - **Heterogeneous Mixture:** not uniform in composition 
+    - **Homogeneous Mixture:** completely uniform in composition
+  - **Solution:** homogenous mixture
+  - **Pure Sunstance:** in contrast to a mixture, consists of only one compound or element
+- Elements vs Compounds
+  - **Element:** the simplest form of matter that can exist under normal laboratory conditions
+  - **Compound:** a substance that can be separated into a simpler substance by chemical reaction
